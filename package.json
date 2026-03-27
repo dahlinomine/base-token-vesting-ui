@@ -1,0 +1,14 @@
+{
+  "name": "base-token-vesting-ui",
+  "version": "0.1.0",
+  "description": "Dashboard for employees to claim vested tokens on Base",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
